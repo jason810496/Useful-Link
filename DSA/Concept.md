@@ -1,3 +1,12 @@
+# Startup 
+[ awesome  cs training (TW) ](https://github.com/goodjack/awesome-cs-training)
+
+[ NTNU Algo](https://web.ntnu.edu.tw/~algo/)
+
+[ OI Wiki ](https://oi-wiki.org/)
+
+[ pr3pony Hackmd](https://hackmd.io/@pr3pony/HysEHoYe8)
+
 # Data Structure Concept
 
 ## RB Tree
@@ -10,3 +19,7 @@
 ## Heap Implementation
 
 [Heap implementation in C ](https://www.techiedelight.com/min-heap-max-heap-implementation-c/)
+
+## Fermet Prime Test
+
+[ on GreekforGreek ](https://www.geeksforgeeks.org/primality-test-set-2-fermet-method/?ref=rp)
